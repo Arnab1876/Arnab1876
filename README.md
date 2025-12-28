@@ -21,5 +21,4 @@ Currently Pre-final year Undergraduate student at BIT Mesra, Ranchi<br>Interest 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arnab1876&icon=0&color=7)](https://visitcount.itsvg.in)
 
-### ✍️Quote:--
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
