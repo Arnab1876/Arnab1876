@@ -1,7 +1,7 @@
 ## Hi there👋👋..... Welcome to my GITHUB Profile.
 
 # 💫 About Me:
-Currently Pre-final year Undergraduate student at BIT Mesra, Ranchi<br>Interest in Data Science and Machine Learning field.
+Currently Pre-final year Undergraduate student at BIT Mesra., Ranchi<br>Interest in Data Science and Machine Learning field.
 
 
 ## 🌐 Socials:
